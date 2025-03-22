@@ -1,7 +1,7 @@
-## Hi, I'm Beatriz Vitória 👋  
+# Hi, I'm Beatriz Vitória 👋  
   
 
-#### <div align="center">Information Systems Student | Technology Enthusiast</div>  
+### <div align="center">Information Systems Student | Technology Enthusiast</div>  
   
 
 I am an Information Systems student 🤓, always looking for new opportunities to learn and explore different technologies. My main focus is on software development, and I am constantly improving my skills in various areas of computer science. 👩‍💻  
