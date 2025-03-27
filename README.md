@@ -30,12 +30,8 @@ I am an Information Systems student 🤓, always looking for new opportunities t
   <img src="https://github-readme-stats.vercel.app/api?username=biavitoria&theme=jolly&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="44%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biavitoria&theme=jolly&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Linguagens Mais Usadas" width="34%" />
 </div>
-<br/>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=biavitoria&theme=jolly&hide_border=true" alt="Streak Stats" width="53%" />
-</p>
-
+<img src="https://nirzak-streak-stats.vercel.app/?user=biavitoria&theme=jolly&hide_border=true" alt="Streak Stats" width="53%" />
 <br/>  
 
 ## 🏆 GitHub Trophies
