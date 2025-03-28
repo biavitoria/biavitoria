@@ -26,13 +26,9 @@ I am an Information Systems student 🤓, always looking for new opportunities t
 <br/>  
  
 ## 📊 GitHub Stats:
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=biavitoria&theme=jolly&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="44%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biavitoria&theme=jolly&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Linguagens Mais Usadas" width="34%" />
-</div>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=biavitoria&theme=jolly&hide_border=true" alt="Streak Stats" width="53%" />
-<br/>  
+![](https://github-readme-stats.vercel.app/api?username=biavitoria&theme=jolly&_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=biavitoria&theme=jolly&_border=false&include_commits=true&count_private=true&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=biavitoria&theme=jolly&_border=false)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=biavitoria&theme=radical&no-frame=false&no-bg=false&margin-w=4)
